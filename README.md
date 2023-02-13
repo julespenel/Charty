@@ -5,7 +5,7 @@ This tool mainly makes one's life easier. Each features, by itself, doesn't save
 
 ## Autoformatting
 Allows one to quickly apply a standardize formatting, which differs from Excel's own template. The autoformatting can be reconfigured easily.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/julespenel/Charty/edit/blob/Before.jpg?raw=true "BEFORE")
 
 ## Annotations
 Why should one annotate? Talking from experience writing research papers, people have little time to spare before they lose interest. If a graph takes some time to understand, unless it is mind blowingly interesting, many people will skip it. Annotating shortens the time required to grasp how a graph is interesting.
